@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nyl:home|Door43 (nyl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nyl|d43-nyl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nyl/archive/master.zip|d43-nyl.zip]]
+
+**Recent Changes**
+{{changes>ns = nyl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nyl|Ethnologue data]]
+
